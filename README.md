@@ -1,1 +1,4 @@
-# LILO
+#Introduction
+In a world where climate change wreaked havoc, land disappeared beneath rising waters—leaving behind nothing but endless ocean. This event turned into the worst nightmare for cats: water everywhere. Before the flood, humanity fell victim to a mysterious epidemic that caused every human to enter a deep sleep within the last fortress of mankind. With no humans left awake, cats evolved—gaining intelligence, speech, and the ability to walk on two legs.
+
+Now, in Catpocalypse, players take control of an elite feline survivor who leads their crew aboard a makeshift floating fortress. Your mission? Defend your boat from threats, gather resources, and unravel the mystery of humanity's disappearance. The game is intended for PC and mobile platforms, and it will be developed using Godot Engine 4.
